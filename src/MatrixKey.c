@@ -1,5 +1,5 @@
 #include "REGX52.H"
-#include"Dlay.h"
+#include"Delay.h"
 unsigned char MatrixKey(){
     unsigned char KeyNumber = 0;
     //scan 1st line
